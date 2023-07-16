@@ -6,7 +6,7 @@ Welcome to the webpage dedicated to fasciolosis, a liver fluke disease affecting
 
 Fasciolosis primarily affects ruminant animals, particularly cattle, and is prevalent in areas with wet and marshy pastures. The disease poses significant economic and health concerns for livestock farmers, as it can lead to reduced productivity, weight loss, liver damage, and even mortality in severe cases.
 
-I have created this webpage as a homework assignment for the YourCode course. The purpose of this assignment is to raise awareness about fasciolosis, educate readers about the disease, and provide guidance on effective management and control strategies. By understanding the life cycle of the liver fluke parasite and implementing appropriate prevention and control measures, we can minimize the impact of fasciolosis on cattle health and productivity.
+I have created this webpage as a homework assignment for the YourCode course. The purpose of this webpage is to raise awareness about fasciolosis, educate readers about the disease, and provide guidance on effective management and control strategies. By understanding the life cycle of the liver fluke parasite and implementing appropriate prevention and control measures, we can minimize the impact of fasciolosis on cattle health and productivity.
 
 Please explore the various sections of this webpage to gain a comprehensive understanding of fasciolosis, its impact, and the strategies to effectively manage and mitigate the disease.
 
@@ -16,4 +16,15 @@ Please explore the various sections of this webpage to gain a comprehensive unde
 
 ## Demo
 https://jaromirdev.github.io/Homepage/
+
+## Technologies used:
+
+* HTML
+* BEM convention
+* CSS
+* Normalize CSS
+* JavaScript
+* GIT
+
+
 
