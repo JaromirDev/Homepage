@@ -1,0 +1,29 @@
+.html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.page {
+    max-width: 1000px;
+    background-color: #353333;
+    margin: 150px auto;
+    font-family: 'Lato', sans-serif;
+}
+
+.page-main__footer {
+    color: #DEE5E5;
+    text-align: center;
+    border-top: 2px solid #89c587;
+    border-bottom: 2px solid #89c587;
+    max-width: 100%;
+    margin-top: 50px;
+    padding: 10px;
+}
+
+  .backgroundChange {
+    background-color: #273047f5;
+    color: #e4dbe1;
+  }

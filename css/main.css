@@ -1,0 +1,30 @@
+.main__header {
+    font-size: 28px;
+    text-align: center;
+    line-height: 1.5;
+    color: #DEE5E5;
+    text-shadow: 4px 2px 15px #49dd49;
+
+}
+
+.main__paragraph {
+
+    line-height: 1.4;
+    text-align: left;
+    color: #ffffff;
+    margin: 5px;
+    text-indent: 10px
+}
+
+.main__list {
+    list-style-type: square;
+    margin: 5px 0;
+    color: #ffffff;
+}
+
+
+
+.main__button-background {
+    text-align: center;
+    
+}

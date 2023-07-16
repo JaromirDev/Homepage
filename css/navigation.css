@@ -1,0 +1,31 @@
+.navigation {
+    font-weight: bold;
+    text-align: center;
+    margin: 50px;
+    border-bottom: 2px solid #89c587;
+    border-top: 2px solid #89c587;
+}
+
+.navigation__list {
+    list-style: none;
+}
+
+.navigation__item {
+    display: inline-block;
+    margin: 4px 30px;
+    font-size: 16px;
+}
+
+.navigation__item:hover {
+    text-shadow: 4px 2px 15px #49dd49;
+    font-size: 18px;
+}
+
+.navigation__link {
+    text-decoration: none;
+    color: #DEE5E5;
+}
+
+.navigation__link:visited {
+    color: none;
+}

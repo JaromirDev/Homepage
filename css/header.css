@@ -1,0 +1,8 @@
+.header__title {
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    color: #DEE5E5;
+    margin-bottom: 70px;
+    text-shadow: 4px 2px 15px #49dd49;
+}
