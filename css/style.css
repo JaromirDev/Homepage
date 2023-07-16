@@ -23,7 +23,17 @@
     padding: 10px;
 }
 
-  .backgroundChange {
-    background-color: #273047f5;
-    color: #e4dbe1;
-  }
+    .bodyDark {
+        background-color: #323a50f5;
+        color: #fff;
+    }
+
+    .bodyLight {
+        background-color: #aaa2a2;
+        color: #000;
+    }
+
+    .backgroundButton {
+        background-color: #1e2330f5;
+        color: #e4dbe1;
+    }
