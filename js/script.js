@@ -1,3 +1,4 @@
+{
 const backgroundButton = document.querySelector("#toggleButton");
 const body = document.querySelector("body");
 const themeName = document.querySelector(".themeName");
@@ -13,3 +14,4 @@ const tableContainer = document.querySelector('.container__table');
 closeButton.addEventListener('click', () => {
   tableContainer.style.display = 'none';
 });
+}
